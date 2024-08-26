@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto:"sim",
-            afirmacao: "afirmação 1"
+            afirmacao: "sim"
         },
         {
         texto:"nao",
-        afirmacao: "afirmação 2"
+        afirmacao: "nao"
         }
     ]
 },
@@ -25,11 +25,11 @@ const perguntas = [
         {
 
         texto: "sim",
-        afirmacao: "afirmação 3"
+        afirmacao: "nao"
         },
         {
         texto:"nao",
-        afirmacao: "afirmação 4"
+        afirmacao: "sim"
         }
     ]
 },
@@ -39,11 +39,11 @@ const perguntas = [
     alternativas: [
         {
         texto:"nao",
-        afirmacao: "afirmação 5"
+        afirmacao: "sim"
         },
         {
         texto:"nao",
-        afirmacao: "afirmação 6"
+        afirmacao: "sim"
         }
     ]
 }
