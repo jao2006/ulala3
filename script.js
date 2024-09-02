@@ -6,44 +6,44 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "an",
+    enunciado: "Qual carro é melhor?",
     alternativas: [
         {
-            texto:"sim",
-            afirmacao: "sim"
+            texto:"Porsche 911",
+            afirmacao: "Chad🗿"
         },
         {
-        texto:"nao",
-        afirmacao: "nao"
+        texto:"Tesla Model S",
+        afirmacao: "Eca, noob 🤢"
         }
     ]
 },
 
 {
-    enunciado: "sim?",
+    enunciado: "Verstappen ou Räikkönen?",
     alternativas: [
         {
 
-        texto: "sim",
-        afirmacao: "nao"
+        texto: "Kimi",
+        afirmacao: "Giga Chad 🗿"
         },
         {
-        texto:"nao",
-        afirmacao: "sim"
+        texto:"Max",
+        afirmacao: "Muito gayyy 🤭"
         }
     ]
 },
 
 {
-    enunciado: "sim",
+    enunciado: "Melhor professor?",
     alternativas: [
         {
-        texto:"nao",
-        afirmacao: "sim"
+        texto:"Estiverson",
+        afirmacao: "Rei do universo 🔱"
         },
         {
-        texto:"nao",
-        afirmacao: "sim"
+        texto:"Leninha",
+        afirmacao: "Queima-Queima 🔥"
         }
     ]
 }
